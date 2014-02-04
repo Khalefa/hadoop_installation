@@ -17,13 +17,4 @@
 <!-- Put site-specific property overrides in this file. -->
 
 <configuration>
-  <property>
-    <name>fs.default.name</name>
-    <value>hdfs://localhost/</value>
-  </property>
-<property>
-    <name>hadoop.tmp.dir</name>
-    <value>/home/khalefa/hdir/</value>
-  </property>
-
 </configuration>

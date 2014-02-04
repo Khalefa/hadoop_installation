@@ -14,17 +14,6 @@
 -->
 <configuration>
 
-<!--   <property>
-    <name>yarn.nodemanager.log-dirs</name>
-    <value> /home/khalefa/hdir/logs</value>
-    <description>the directories used by Nodemanagers as log directories</description>
-  </property>
-!-->
-  <property>
-    <name>yarn.nodemanager.aux-services</name>
-    <value>mapreduce_shuffle</value>
-    <description>shuffle service that needs to be set for Map Reduce to run </description>
-  </property>
-
+<!-- Site specific YARN configuration properties -->
 
 </configuration>

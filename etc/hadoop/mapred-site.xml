@@ -18,12 +18,8 @@
 
 <configuration>
  <property>
-    <name>mapreduce.framework.name</name>
-    <value>yarn</value>
-  </property>
- <property>
     <name>mapreduce.cluster.temp.dir</name>
-    <value>/home/khalefa/hdir/tmp/</value>
+    <value></value>
     <description>No description</description>
     <final>true</final>
   </property>
